@@ -1,6 +1,9 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 environment_generative_adverserial_networks_tf2/
+checkpoints/
+.idea/
+*.png
 *.py[cod]
 *$py.class
 
